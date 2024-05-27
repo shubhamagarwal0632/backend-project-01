@@ -10,4 +10,4 @@ const userschemas = mongoose.Schema({
     password:String   
 })
 
-export default mongoose.model('authnew', userschemas)
+export default mongoose.model('authnew', userschemas);
